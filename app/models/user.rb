@@ -15,7 +15,7 @@ has_many :statuses
 
 
   def full_name
-  first_name + " " + last_name 
+    first_name + " " + last_name 
   end
 
   def gravatar_url
