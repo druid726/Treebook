@@ -2,6 +2,14 @@ pat:
   first_name: "Pat"
   last_name: "ONeill"
   email: "pdoneill26@gmail.com"
-  profile_name: "druid726"
+  profile_name: "Druid726"
   password: "password"
   password_confirmation: "password"
+
+diane:
+  first_name: "Diane"
+  last_name: "Reydel"
+  email:	"pdmro28@gmail.com"
+  profile_name: "DianeReydel"
+  password: "misssadie"
+  password_confirmation: "misssadie"
