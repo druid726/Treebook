@@ -7,10 +7,10 @@ gem 'rails', '4.0.0.rc2'
 gem 'devise'
 gem 'simple_form'
 
-#group :development, :test do
+group :development, :test do
 # Use sqlite3 as the database for Active Record
-	gem 'sqlite3'
-#end
+	gem 'sqlite3', '1.3.8'
+end
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0.rc2'
